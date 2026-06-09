@@ -5,6 +5,6 @@
 ![DAX](https://img.shields.io/badge/Analytics-DAX-0F6CBD?style=for-the-badge)
 ![Dashboard](https://img.shields.io/badge/Project-BI%20Dashboard-1F1F1F?style=for-the-badge)
 
-<img src='dashboard_snaps\netflix_dashboard.png' class="center">
+<img src='dashboard_snaps\netflix_dashboard.jpg' class="center">
 <img src='dashboard_snaps\amazon_prime_dashboard.png' class="center">
 <img src='dashboard_snaps\disney_dashboard.png' class="center">
