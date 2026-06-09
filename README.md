@@ -17,15 +17,15 @@ The goal of this project was to convert raw OTT datasets into a clean, interacti
 
 ### Netflix Dashboard
 
-![Netflix Dashboard]<img src='dashboard_snaps\netflix_dashboard.jpg' class="center">
+<img src='dashboard_snaps\netflix_dashboard.jpg' class="center">
 
 ### Amazon Prime Dashboard
 
-![Amazon Prime Dashboard]<img src='dashboard_snaps\amazon_prime_dashboard.png' class="center">
+<img src='dashboard_snaps\amazon_prime_dashboard.png' class="center">
 
 ### Disney+ Hotstar Dashboard
 
-![Disney Hotstar Dashboard]<img src='dashboard_snaps\disney_dashboard.png' class="center">
+<img src='dashboard_snaps\disney_dashboard.png' class="center">
 
 ---
 
